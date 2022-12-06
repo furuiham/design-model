@@ -1,8 +1,8 @@
 # design-model
 tracking learning record
 
-learning from : 
-https://www.amazon.cn/dp/B01N9GO0ZC
+learning from :
+- https://www.amazon.cn/dp/B01N9GO0ZC
 
 follow :
 - https://github.com/QianMo/Unity-Design-Pattern
